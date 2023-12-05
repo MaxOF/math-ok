@@ -16,12 +16,6 @@ A template for the Unemployables who need to showcase their creative work, whate
 <br />
 <br />
 
-## About this template
-After seeing the mission of Unemployables (https://unemployables.io/) to help people become self-employed and grow their businesses, I immediately thought about helping people build portfolios. It's something that I've helped friends with in the past and really enjoyed doing. <br /><br />
-This template is mobile friendly, so you won't have to worry about your site not working on phones.
-<br />
-<br />
-
 **The goals of this template are:**
 - To be a starting point for someone who's never touched web development but wants to build their own portfolio website. 
 - Help keep costs of running a portfolio website low by publishing the website on Github Pages for free (instructions further down).
